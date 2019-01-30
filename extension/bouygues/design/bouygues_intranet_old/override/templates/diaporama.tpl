@@ -1,0 +1,1 @@
+{node_view_gui content_node=$node view="diaporama" includemode=$view_parameters.includemode lightbox=$view_parameters.lightbox nodeid=$view_parameters.nodeid}

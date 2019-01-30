@@ -1,0 +1,57 @@
+#logo a{background-image:url(../../../images/general/_en/logo.gif)}
+#search form .btnAdvancedSearch{background:url(../../../images/btns/_en/btns_blue.png) -176px 0 no-repeat}
+#search form .btnAdvancedSearch:hover{background-position:-176px -20px}
+#menu li a {background-image:url(../../../images/menus/header/1/_en/menu1.png);background-repeat:no-repeat}
+#menu .li1 a{background-position:0 0}
+#menu .li1 a:hover{background-position:-105px 0}
+#menu .li2 a{background-position:0 -44px}
+#menu .li2 a:hover{background-position:-137px -44px}
+#menu .li3 a{background-position:0 -88px}
+#menu .li3 a:hover{background-position:-147px -88px}
+#menu .contactGroup .top{background-image:url(../../../images/menus/header/1/_en/li3On.gif)}
+#menu .li4 a{background-position:0 -132px}
+#menu .li4 a:hover{background-position:-152px -132px}
+#menu #pagesView .top{background-image:url(../../../images/menus/header/1/_en/li4On.gif)}
+#tools #auth .li1 a{background:url(../../../images/btns/_en/btn_orange.png) -87px 0 no-repeat}
+#tools #auth .li1 a:hover{background-position:-87px -25px}
+#tools #auth .li2 a{background:url(../../../images/btns/_en/btns_blue.png) 0 0 no-repeat}
+#tools #auth .li2 a:hover{background-position:0 -26px}
+#tools #auth .li1 .on{background:url(../../../images/btns/_en/btn_orange.png) 0 0 no-repeat}
+#tools #auth .li1 .on:hover{background-position:0 -25px}
+#tools #auth .li2 .on{background:url(../../../images/btns/_en/btns_blue.png) -88px 0 no-repeat}
+#tools #auth .li2 .on:hover{background-position: -88px -26px}
+.homePage .topLeft .information .top .title{background:url('../../../images/menus/home/information/_en/title.jpg') no-repeat}
+.homePage .topLeft .information .top .title-only-filiere{background:url('../../../images/menus/home/information/_en/title-only-filiere.jpg') no-repeat}
+.btn-mode-text,.btn-mode-text-on,.btn-mode-image,.btn-mode-image-on{display:inline-block;background-image:url(../../../images/btns/_fr/text_image.png);background-repeat:no-repeat;width:58px;height:22px}
+.btn-mode-text{background-position:0 0}
+.btn-mode-text:hover, .btn-mode-text-on{background-position:0 -22px}
+.btn-mode-image {background-position:-58px 0}
+.btn-mode-image:hover,.btn-mode-image-on{background-position:-58px -22px}
+.btn-ebyPersoCreate{background:url('../../../images/btns/_en/ebyPersoCreate.png') 0 0 no-repeat transparent}
+.btn-ebyPersoCreate:hover{background-position:0 -26px}
+.btn-ebyPersoAddContent{background:transparent url('../../../images/btns/_en/ebyPersoAddContent.jpg') no-repeat}
+.eby_perso .content1 .box-add .box-add-top{background:transparent url('../../../images/boxes/ebyperso/add/_en/top.gif') no-repeat}
+
+#first li a {background-image:url(../../../images/menus/header/2/_en/new_menu_en.png);background-repeat:no-repeat}
+#first .li7{background-position:0 top}
+#first .li7-active,#first .li7:hover{background-position:0 bottom}
+#first .li6{background-position:-94px top}
+#first .li6-active,#first .li6:hover{background-position:-94px bottom}
+#first .li8{background-position:-183px top}
+#first .li8-active,#first .li8:hover{background-position:-183px bottom}
+#first .li9{background-position:-298px top}
+#first .li9-active,#first .li9:hover{background-position:-298px bottom}
+#first .li10{background-position:-454px top}
+#first .li10-active,#first .li10:hover{background-position:-454px bottom}
+#first .li11{background-position:-509px top}
+#first .li11-active,#first .li11:hover{background-position:-509px bottom}
+#first .li15{background-position:-572px top}
+#first .li15-active,#first .li15:hover{background-position:-572px bottom}
+#first .li12{background-position:-615px top}
+#first .li12-active,#first .li12:hover{background-position:-615px bottom}
+#first .li13{background-position:-706px top}
+#first .li13-active,#first .li13:hover{background-position:-706px bottom}
+#first .li18{background-position:-786px top}
+#first .li18-active,#first .li18:hover{background-position:-786px bottom}
+#first .li14{background-position:-858px top}
+#first .li14-active,#first .li14:hover{background-position:-858px bottom}

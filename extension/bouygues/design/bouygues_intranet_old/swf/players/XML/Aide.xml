@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aideLang>
+
+
+	<!-- Langue Française -->
+	<aide lang="FRA">
+		<title>AIDE</title>
+		<st>Activer ou désactiver les sous-titres</st>
+		<pdf>Lire le transcript PDF de la video</pdf>
+		<fullscreen>Afficher la vidéo en plein ecran</fullscreen>
+		<ad>Lire la vidéo avec ou sans audio-descriptions</ad>
+	</aide>
+
+	<!-- Langue Anglaise -->
+	<aide lang="ANG">
+		<title>HELP</title>
+		<st>Enable or Disable captions</st>
+		<pdf>Read the video PDF transcript</pdf>
+		<fullscreen>Watch the video in full screen</fullscreen>   
+		<ad>Enable or disable audio-descriptions</ad>
+	</aide>
+	
+	
+</aideLang>

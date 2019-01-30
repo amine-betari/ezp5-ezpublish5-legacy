@@ -1,0 +1,8 @@
+Changelog eztika 1.0 to 1.1
+===========================
+
+- updated tika.jar to 1.5-dev (rev  814142), including more support for office xml formats and various bugfixes
+- added office xml format mimetypes to binaryfile.ini
+- updated ezinfo.php
+
+

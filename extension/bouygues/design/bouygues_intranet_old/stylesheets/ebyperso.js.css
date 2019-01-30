@@ -1,0 +1,8 @@
+.widget-head a.remove{float:right;display:inline-block;margin:8px 10px 8px 0;outline:none;font-size:0.7em;text-decoration:none;color:#646464}
+.widget-head a.edit:hover,.widget-head a.remove:hover{color:#ec5715}
+.widget-head a.edit{float:right;display:inline-block;margin:8px 4px 8px 4px;outline:none;font-size:0.7em;text-decoration:none;color:#646464}
+.widget-head a.collapse{float:left;display:inline-block;background:url('../images/pictos/collapse.gif') no-repeat;width:8px;height:9px;text-indent:-9999em;margin:8px 0 8px 10px;outline:none}
+.widget-placeholder {border:2px dashed #999}
+#column1 .widget-placeholder {margin:30px 35px 0 25px}
+#column2 .widget-placeholder {margin:30px 20px 0 20px}
+#column3 .widget-placeholder {margin:30px 25px 0 35px}

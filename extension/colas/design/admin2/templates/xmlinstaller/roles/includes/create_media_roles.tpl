@@ -1,0 +1,1 @@
+{include uri="design:xmlinstaller/policy.tpl" module="content" function="create" parent_class=array("folder") class=array("file","image","video")}

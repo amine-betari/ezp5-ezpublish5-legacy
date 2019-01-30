@@ -1,0 +1,6 @@
+post={initialize:function(){$(".more-text").mouseover(function(){$(this).addClass('comment-row-blue');});$(".more-text").mouseout(function(){$(this).removeClass('comment-row-blue');});},replaceAll:function(strData,strTarget,strSubString)
+{var strText=strData;var intIndexOfMatch=strText.indexOf(strTarget);while(intIndexOfMatch!=-1)
+{strText=strText.replace(strTarget,strSubString)
+intIndexOfMatch=strText.indexOf(strTarget);}
+return(strText);},readNext:function(dom){$('#readNext_'+dom).slideToggle("slow",function(){$('.btnNext_'+dom).toggle();});},showNext:function(dom){$('#showNext_'+dom).slideToggle("slow",function(){$('.showNext').toggle();});},getFormValidation:function(message){Lightbox.open(null,null,null,message);},getFormComment:function(url,params){var sParams=params;var aParams=sParams.split('|');var text=$.ajax({type:'post',url:url,data:{RedirectURIAfterPublish:aParams[0],RedirectIfDiscarded:aParams[0],ClassIdentifier:aParams[1],NodeID:aParams[2],NewButton:'ajouter un commentaire',ContentLanguageCode:aParams[3]},success:function(data){$string=post.replaceAll(data,currentLang+'/layout/set/ajax','');$(".comments .form-comment .edit-comment").html($string);$("#form-comment").validate({submitHandler:function(form){$('a[name=submitButtonComment]').hide();form.submit();}});}});}}
+$().ready(function(){post.initialize();});

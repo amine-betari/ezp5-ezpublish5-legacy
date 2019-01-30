@@ -1,0 +1,4 @@
+#!/bin/sh
+JAVA=/usr/bin/java
+TIKA_JAR=/home/azureuser/ecolas/ez5/ezpublish_legacy/extension/eztika/bin/tika.jar
+$JAVA -jar $TIKA_JAR -t $1

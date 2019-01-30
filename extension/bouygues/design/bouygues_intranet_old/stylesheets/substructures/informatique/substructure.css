@@ -1,0 +1,117 @@
+.color1{color:#063c00}
+.color2{color:#15890a}
+.color3{color:#15ac05}
+.color4{color:#50d641}
+.color5{color:#caf4c6}
+.colorDefault1{color:#646464}
+.colorDefault2{color:#ffffff}
+.bgColor1{background-color:#063c00}
+.bgColor2{background-color:#15890a}
+.bgColor3{background-color:#15ac05}
+.bgColor4{background-color:#50d641}
+.bgColor5{background-color:#caf4c6}
+.border4{border:1px solid #50d641}
+.border1{border:1px solid #063c00}
+.btn-filiere-arrow-left{background:transparent url('../../../images/arrows/informatique/arrowB.png') no-repeat 0 4px}
+.boxA .top .left, .plus-diaporama .boxA .top .left{background-image:url(../../../images/boxes/informatique/tLeft.gif)}
+.boxA .top .middle,  .plus-diaporama .boxA .top .middle{background-image:url(../../../images/boxes/informatique/tMiddle.gif)}
+.boxA .top .right,  .plus-diaporama .boxA .top .right{background-image:url(../../../images/boxes/informatique/tRight.gif)}
+.boxA .content,  .plus-diaporama .boxA .content{border-left:1px solid #caf3c9;border-right:1px solid #caf3c9}
+.boxA .bottom .left, .plus-diaporama .boxA .bottom .left{background-image:url(../../../images/boxes/informatique/bLeft.gif)}
+.boxA .bottom .middle, .plus-diaporama .boxA .bottom .middle{background-image:url(../../../images/boxes/informatique/bMiddle.gif)}
+.boxA .bottom .right, .plus-diaporama .boxA .bottom .right{background-image:url(../../../images/boxes/informatique/bRight.gif)}
+.user a,.tools a,.plus a,.file .content1 a,.file .content2 a,.list a,.prestataire a,.masterPage a,.post a{color:#15890a}
+.user a:hover,.tools a:hover,.plus a:hover,.file .content1 a:hover,.file .content2 a:hover,.list a:hover,.prestataire a:hover,.masterPage a:hover,.post a:hover{color:#15ac05}
+.image_small_no-link,.image_medium_no-link,.image_medium,.image_small{border:1px solid #15890a}
+.image_medium:hover,.image_small:hover{border:1px solid #15ac05}
+.whoswho .pagenavigator a{color:#646464}
+.whoswho .pagenavigator a:hover{color:#15ac05}
+#left #lmenu ul ul, #left #lmenu ul li {border-top:1px solid #15ac05}
+#lmenu li a{background:transparent url('../../../images/arrows/informatique/arrowC.gif') no-repeat 0% 4px}
+#lmenu .linkOff {background:transparent url('../../../images/arrows/informatique/arrowD.gif') no-repeat 5px 50%}
+#lmenu .linkOff:hover {background:transparent url('../../../images/arrows/informatique/arrowD.gif') no-repeat 2% 10px;background-color:#50d641;color:#063c00}
+#lmenu .linkOff-noArrow{background:none}
+#lmenu .linkOff-noArrow:hover {background-color:#50d641;color:#063c00}
+#lmenu .linkOn {background:transparent url('../../../images/arrows/informatique/arrowA.gif') no-repeat 2% 10px;background-color:#50d641}
+#lmenu .linkOn-noArrow{background-color:#50d641}
+#lmenu .colorDefault2:hover{font-weight:bold}
+#lmenu .sbLinkOn{background:transparent url('../../../images/arrows/informatique/arrowA.gif') no-repeat 0% 6px}
+.masterPage .content1 .one .boxA .content h4{color:#063c00}
+.masterPage .content4 {background:transparent url('../../../images/boxes/informatique/onlyBackground.jpg') no-repeat}
+.masterPage .content1 .one .boxA,.masterPage .content1 .one .boxA .content{background-color:#caf4c6}
+.file .content1 .top{background:transparent url('../../../images/boxes/informatique/specials/file/top.gif') no-repeat top left}
+.file .content1 .middle{background:transparent url('../../../images/boxes/informatique/specials/file/middle.gif') repeat-y}
+.file .content1 .bottom{background:transparent url('../../../images/boxes/informatique/specials/file/bottom.gif') no-repeat bottom left}
+.file .content1 ul li .off{background:transparent url('../../../images/arrows/informatique/arrowD.gif') no-repeat 0 3px}
+.file .content1 ul li .on{background:transparent url('../../../images/arrows/informatique/arrowA.gif') no-repeat 0 3px;color:#063c00}
+.minisite .mMenu ul li a{background:transparent url('../../../images/menus/minisite/informatique/off.gif') no-repeat 0 10px}
+.minisite .mMenu ul li .on,.minisite .mMenu ul li a:hover{background:transparent url('../../../images/menus/minisite/informatique/on.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu ul li .on-first{background:transparent url('../../../images/menus/minisite/informatique/on-first.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu ul li .on-last{background:transparent url('../../../images/menus/minisite/informatique/on-last.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu ul li .off-first:hover{background:transparent url('../../../images/menus/minisite/informatique/on-first.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu ul li .off-last:hover{background:transparent url('../../../images/menus/minisite/informatique/on-last.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu2 ul li a{background:transparent url('../../../images/menus/minisite/informatique/2/off.gif') no-repeat 0 10px}
+.minisite .mMenu2 ul li .on,.minisite .mMenu2 ul li a:hover{background:transparent url('../../../images/menus/minisite/informatique/2/on.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu2 ul li .on-first{background:transparent url('../../../images/menus/minisite/informatique/2/on-first.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu2 ul li .on-last{background:transparent url('../../../images/menus/minisite/informatique/2/on-last.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu2 ul li .off-first:hover{background:transparent url('../../../images/menus/minisite/informatique/2/on-first.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu2 ul li .off-last:hover{background:transparent url('../../../images/menus/minisite/informatique/2/on-last.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu3 ul li a{background:transparent url('../../../images/menus/minisite/informatique/3/off.gif') no-repeat 0 10px}
+.minisite .mMenu3 ul li .on,.minisite .mMenu3 ul li a:hover{background:transparent url('../../../images/menus/minisite/informatique/3/on.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu3 ul li .on-first{background:transparent url('../../../images/menus/minisite/informatique/3/on-first.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu3 ul li .on-last{background:transparent url('../../../images/menus/minisite/informatique/3/on-last.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu3 ul li .off-first:hover{background:transparent url('../../../images/menus/minisite/informatique/3/on-first.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu3 ul li .off-last:hover{background:transparent url('../../../images/menus/minisite/informatique/3/on-last.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu4 ul li a{background:transparent url('../../../images/menus/minisite/informatique/4/off.gif') no-repeat 0 10px}
+.minisite .mMenu4 ul li .on,.minisite .mMenu4 ul li a:hover{background:transparent url('../../../images/menus/minisite/informatique/4/on.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu4 ul li .on-first{background:transparent url('../../../images/menus/minisite/informatique/4/on-first.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu4 ul li .on-last{background:transparent url('../../../images/menus/minisite/informatique/4/on-last.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu4 ul li .off-first:hover{background:transparent url('../../../images/menus/minisite/informatique/4/on-first.gif') no-repeat bottom;color:#15ac05}
+.minisite .mMenu4 ul li .off-last:hover{background:transparent url('../../../images/menus/minisite/informatique/4/on-last.gif') no-repeat bottom;color:#15ac05}
+.minisite .file .content1 .top{background:transparent url('../../../images/boxes/informatique/specials/minisite/top.gif') no-repeat top left}
+.minisite .file .content1 .top2{background:none;border-top:1px solid #50d641}
+.minisite .file .content1 .middle{background:transparent url('../../../images/boxes/informatique/specials/minisite/middle.gif') repeat-y}
+.minisite .file .content1 .bottom{background:transparent url('../../../images/boxes/informatique/specials/minisite/bottom.gif') no-repeat bottom left}
+.post .column .sBox .second .boxA .content .title,.post .box .second .boxA .content .title{color:#15ac05}
+.default h1{color:#063c00}
+.default h4{color:#15ac05}
+.post table{border:1px solid #063c00}
+.post table .th{color:#063c00;border:1px solid #063c00;background-color:#50d641}
+.post table .th_hard{color:#063c00;border:1px solid #063c00;background-color:#15ac05}
+.post table .td_light{color:#ffffff;border:1px solid #063c00;background-color:#15ac05}
+.post table .td_hard{color:#ffffff;border:1px solid #063c00;background-color:#15890a}
+.post table td,.post table .td{border:1px solid #063c00}
+.list .content2 .boxA .content .overview a.thumb:hover,.list .content2 .boxA .content .overview a.medium:hover,.list .content2 .boxA .content .overview a.big:hover{border:1px solid #063c00}
+.pagenavigator a.next:hover,.pagenavigator a.previous:hover{background:transparent url('../../../images/pagination/informatique/btnBackground.gif') no-repeat}
+.pagenavigator .pages .current{background:transparent url('../../../images/pagination/informatique/pageCurrent.gif') no-repeat}
+.pagenavigator .pages .other a:hover{color:#15ac05}
+.btn-top-page:hover{background:transparent url('../../../images/btns/informatique/btn-top-page-on.gif')}
+a.btn:hover .leftBtn{background:url('../../../images/btns/informatique/btn-left-on.gif')}
+a.btn:hover .labelBtn{background:url('../../../images/btns/informatique/btn-on.gif')}
+a.btn:hover .rightBtn{background:url('../../../images/btns/informatique/btn-right-on.gif')}
+a.btn:hover .right-arrow{background:url('../../../images/btns/informatique/btn-right-arrow-on.gif')}
+#divLightboxContent .lightbox-close:hover{background:transparent url('../../../images/btns/informatique/close.gif') no-repeat}
+.btn-next-page:hover{background:transparent url('../../../images/btns/informatique/btn-next.gif') no-repeat}
+.btn-previous-page:hover{background:transparent url('../../../images/btns/informatique/btn-previous.gif') no-repeat}
+#diaporama .diaporama_previous:hover{background:url('../../../images/btns/informatique/diaporama-previous-on.png')}
+#diaporama .diaporama_next:hover{background:url('../../../images/btns/informatique/diaporama-next-on.png')}
+#diaporama_lb .diaporama_previous:hover{background:url('../../../images/btns/informatique/diaporama-previous-on.png')}
+#diaporama_lb .diaporama_next:hover{background:url('../../../images/btns/informatique/diaporama-next-on.png')}
+#diaporama_inc .diaporama_previous:hover{background:url('../../../images/btns/informatique/diaporama-previous-on.png')}
+#diaporama_inc .diaporama_next:hover{background:url('../../../images/btns/informatique/diaporama-next-on.png')}
+#diaporama_carousel .mycarousel.slide-next, #diaporama_carousel_inc .mycarousel.slide-next {background:url('../../../images/btns/informatique/btn-slide-right.gif')}
+#diaporama_carousel .mycarousel.slide-next:hover, #diaporama_carousel_inc .mycarousel.slide-next:hover {background:url('../../../images/btns/informatique/btn-slide-right-on.gif')}
+#diaporama_carousel .mycarousel.slide-prev, #diaporama_carousel_inc .mycarousel.slide-prev {background:url('../../../images/btns/informatique/btn-slide-left.gif')}
+#diaporama_carousel .mycarousel.slide-prev:hover, #diaporama_carousel_inc .mycarousel.slide-prev:hover {background:url('../../../images/btns/informatique/btn-slide-left-on.gif')}
+#diaporama_carousel .mycarousel.slide-next.off, #diaporama_carousel_inc .mycarousel.slide-next.off {background:url('../../../images/btns/btn-slide-right-off.gif')}
+#diaporama_carousel .mycarousel.slide-prev.off, #diaporama_carousel_inc .mycarousel.slide-prev.off {background:url('../../../images/btns/btn-slide-left-off.gif')}
+#vid_carousel div.item .item_small.on, #diaporama_carousel div.item .item_small.on, #diaporama_carousel_inc div.item .item_small.on{border:4px solid #4fd641}
+#diaporama_carousel div.item:hover .item_small {border:4px solid #4fd641}
+#vid_carousel div.item:hover .item_small,#diaporama_carousel_inc div.item:hover .item_small{border:4px solid #4fd641}
+.diaporama_lb_legend a{color:#15890a}
+#vid_carousel .mycarousel.slide-next {background:url('../../../images/btns/informatique/btn-slide-right-video.gif')}
+#vid_carousel .mycarousel.slide-next:hover {background:url('../../../images/btns/informatique/btn-slide-right-on-video.gif')}
+#vid_carousel .mycarousel.slide-prev {background:url('../../../images/btns/informatique/btn-slide-left-video.gif')}
+#vid_carousel .mycarousel.slide-prev:hover {background:url('../../../images/btns/informatique/btn-slide-left-on-video.gif')}
+#vid_carousel .mycarousel.slide-next.off {background:url('../../../images/btns/informatique/btn-slide-right-off-video.gif')}
+#vid_carousel .mycarousel.slide-prev.off {background:url('../../../images/btns/informatique/btn-slide-left-off-video.gif')}

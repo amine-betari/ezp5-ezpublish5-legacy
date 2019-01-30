@@ -1,0 +1,4 @@
+var xmlHttp=createXmlHttpRequest();var obj='';function createXmlHttpRequest(){var xmlHttp=false;if(window.ActiveXObject){xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");}else{xmlHttp=new XMLHttpRequest();}
+if(!xmlHttp){alert("Ops sorry We found some error!");}
+return xmlHttp;}
+function getData(source,values){if(xmlHttp.readyState==4||xmlHttp.readyState==0){xmlHttp.open("POST",source,true);xmlHttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");xmlHttp.setRequestHeader("Content-length",values.length);xmlHttp.setRequestHeader("Connection","close");xmlHttp.send(values);}else{setTimeout('getData(source)',100000);}}

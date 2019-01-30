@@ -1,0 +1,60 @@
+#middle .masterPage .tools{margin-top:-55px}
+#middle .masterPage .content1{height:122px}
+#middle .masterPage .smallbloc .whos_who{width:283px}
+#header #menu .contactGroup .bottom{background-repeat:no-repeat}
+#header #menu #pagesView .bottom{background-repeat:no-repeat}
+#header #menu .contactGroup .submit-btn-go{margin-left:0}
+#header #menu .contactGroup .btn-close-box,#header #menu #pagesView .btn-close-box{margin-bottom:5px}
+#header #navigation .communication li a.arrow,
+#header #navigation .consolidation li a.arrow,
+#header #navigation .controle_interne li a.arrow,
+#header #navigation .developpement_durable li a.arrow,
+#header #navigation .imb li a.arrow,
+#header #navigation .europe li a.arrow,
+#header #navigation .informatique li a.arrow,
+#header #navigation .innovation li a.arrow,
+#header #navigation .rh li a.arrow,
+#header #navigation .juridique li a.arrow,
+#header #navigation .finances li a.arrow{background-image:url('../images/arrows/arrowAie6.gif')}
+#middle .homePage .topRight .column1 .first .content{padding-left:10px;background:url('../images/home/border.png') repeat-y;background-position:191px 0}
+#middle .homePage .topRight .boxA .small .right{background-repeat:no-repeat}
+.btn-mode-image-on{margin-left:5px}
+#middle .homePage .clear .column3 .sondage{width:98%}
+#middle .homePage .clear .column3 #sondage-form{margin:5px 0 0}
+#middle .homePage .clear .column3 .color-blue{margin-bottom:0}
+#middle .post .information{padding:35px 0 0}
+#middle .whoswho .search{width:400px}
+#middle .whoswho .search .submit{width:177px}
+#left #lmenu .listOn{height:20px;width:220px}
+#left #lmenu li a.linkOff,#left #lmenu li a.linkOff-noArrow,{background:white}
+#middle .minisite .mMenu ul li a{margin-left:0}
+#diaporama_inc,#middle #diaporama_inc{cursor:pointer;position:relative;z-index:5}
+#diaporama_inc .diaporama_previous{top:203px;left:0}
+#diaporama_inc .diaporama_next{left:545px;z-index:300}
+#diaporama_inc .diaporama_play{left:500px;z-index:300}
+#diaporama_inc .diaporama_zoom{left:548px;z-index:300}
+#vid_carousel{width:250px}
+#video .col2{width:250px}
+#middle .file .content1{margin-top: -50px}
+#middle .file .content1 .bottom{width:660px;margin:0}
+#middle .file .content1 .top{background-repeat:no-repeat;background-position:0 3px;height:15px}
+#middle .tools .box .information{right:0;padding:1px 0 0 100px;margin:0}
+#middle .file .content1 .middle{background-position:0 40px;background-repeat:no-repeat;background:none}
+#middle .file .content1 .bottom .dossIe6 h1{display:block;width:385px}
+#middle #breadcrumb{margin-bottom:15px}
+#middle .eby_perso_faq .column2 .overview .item{width:460px}
+#middle .masterPage .content3 .two .boxA .agenda .overview{width:250px}
+#middle .masterPage .content3 .one .boxA .agenda .overview{width:350px}
+#middle .masterPage .content3 .two .boxA .agenda .agenda_carousel .mycarousel.global{height:1%;width:250px;overflow:hidden}
+#middle .masterPage .content3 .one .boxA .agenda .agenda_carousel .mycarousel.global{height:1%;width:350px;overflow:hidden}
+.carouBorderIe6{border:4px solid red;width:72px;height:46px}
+#vid_carousel .slide-prev.offPrev{background:transparent url(../images/btns/btn-slide-up-off.gif) repeat scroll 0 0}
+#vid_carousel .slide-next.offNext{background:transparent url(../images/btns/btn-slide-down-off.gif) repeat scroll 0 0}
+.columns .column .contact .widget-content .widget-overview .person{width:258px}
+#middle .eby_perso .content3 .columns .column{position:relative}
+.columns .column .contact .widget-content{position:relative}
+.columns .column .contact .widget-content .widget-overview .person .btn-person-details{right:5px}
+.ezsearch .searchGroup .submit-btn-go{margin-left:0}
+.annuaire .contactGroup .submit-btn-go {display:block}
+#middle .file .content1 ul li{border: 1px solid #ffffff}
+#header #menu .contactGroup .btn-close-box,#header #menu #pagesView .btn-close-box{position:absolute;padding-bottom:10px;margin-right:5px;right:0;bottom:0;text-indent:-999999px}
