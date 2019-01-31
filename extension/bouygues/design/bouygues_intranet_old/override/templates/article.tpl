@@ -1,1 +1,0 @@
-{node_view_gui content_node=$node view="article" view_parameters=$view_parameters}
